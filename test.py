@@ -12,7 +12,7 @@ if number == input_number:
     print('Congratulations! you got it right')
 else:
     print('OWWWW :(, you have lost the game')
-print('thanks for playing!')
+print('thanks for playing! in release')
 
 
 
